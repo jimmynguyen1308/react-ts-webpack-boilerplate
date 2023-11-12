@@ -1,4 +1,4 @@
-# React TypeScript Webpack Babel Template
+# React TypeScript Webpack Babel Boilerplate
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
@@ -8,7 +8,7 @@ By [`@jimmynguyen1308`](https://github.com/jimmynguyen1308)
 
 ## What?
 
-A template which "creates `React` app" with `TypeScript` using `Webpack` & `Babel`
+A boilerplate to "create `React` app" with `TypeScript` using `Webpack` & `Babel`
 
 ## Why?
 
